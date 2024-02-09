@@ -3,26 +3,26 @@ Liberu Real Estate is an advanced and comprehensive real estate software solutio
 
 <!--/h-->
 
+### Licensed under MIT, use for any personal or commercial project.
+
 ## Our Projects
 
-Under development:
+* https://github.com/liberusoftware/boilerplate - Boilerplate application using Laravel 11, PHP 8.3, Filament 3.2 and LiveWire 3.
 
-* https://github.com/laravel-liberu/boilerplate - Boilerplate application using Laravel 10
-* [https://github.com/liberu-ecommerce](https://github.com/liberu-ecommerce) - Ecommerce system written in Laravel 10 using PHP 8.2
-* https://github.com/liberu-genealogy - Family tree builder website written in Laravel 10 using PHP 8.2
-* https://github.com/liberu-genealogy/laravel-gedcom - GEDCOM reading and writing for Laravel
-* https://github.com/liberu-genealogy/php-gedcom - GEDCOM reading and writing for PHP 8.2
-* https://github.com/liberu-genealogy/php-dna - DNA kit processing for PHP 8.2
+### Genealogy related projects
+* https://github.com/liberu-genealogy - Family tree builder website written in Laravel 11 using PHP 8.3 with Filament 3.2 and LiveWire 3.
+* https://github.com/liberu-genealogy/laravel-gedcom - GEDCOM reading and writing for Laravel.
+* https://github.com/liberu-genealogy/php-gedcom - GEDCOM reading and writing for PHP 8.3
+* https://github.com/liberu-genealogy/php-dna - DNA kit processing for PHP 8.3
 
-Planning stage:
-
+### Other active projects
 * https://github.com/liberu-accounting
 * https://github.com/liberu-automation
 * https://github.com/liberu-cms
 * https://github.com/liberu-crm
+* https://github.com/liberu-ecommerce
 * https://github.com/liberu-maintenance
 * https://github.com/liberu-real-estate
-
 ## Demostration website
 <!--/h-->
 
