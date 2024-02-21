@@ -38,7 +38,7 @@ Welcome to Liberu Real Estate – where innovation meets efficiency, and the pos
 * https://github.com/liberu-crm/crm-laravel
 * https://github.com/liberu-ecommerce/ecommerce-laravel
 * https://github.com/liberu-maintenance/maintenance-laravel
-* https://github.com/liberu-real-estate/real-estate-laravel
+
 ## Demostration website
 <!--/h-->
 
