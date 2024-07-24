@@ -9,11 +9,12 @@
 ![](https://img.shields.io/badge/JavaScript-ECMA2020-informational?style=flat&logo=JavaScript&color=F7DF1E)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
+## [Hosted application packages](https://liberu.co.uk/order/main/packages/applications/?group_id=3)
+
 
 ## Description
 Welcome to Liberu Real Estate, our revolutionary open-source project that reshapes the real estate industry through the integration of Laravel 11, PHP 8.3, Livewire 3, and Filament 3. Liberu Real Estate is not just a software solution for property management; it's a dynamic platform designed to empower real estate professionals, property owners, and investors with innovative tools and seamless workflows.
 
-[Hosted application packages](https://liberu.co.uk/order/main/packages/applications/?group_id=3)
 
 **Key Features:**
 
