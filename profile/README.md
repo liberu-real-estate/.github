@@ -13,6 +13,8 @@
 ## Description
 Welcome to Liberu Real Estate, our revolutionary open-source project that reshapes the real estate industry through the integration of Laravel 11, PHP 8.3, Livewire 3, and Filament 3. Liberu Real Estate is not just a software solution for property management; it's a dynamic platform designed to empower real estate professionals, property owners, and investors with innovative tools and seamless workflows.
 
+[Hosted application packages](https://liberu.co.uk/order/main/packages/applications/?group_id=3)
+
 **Key Features:**
 
 1. **Intuitive Property Management:** Liberu Real Estate offers an intuitive and user-friendly platform for managing real estate properties. From listings and transactions to tenant relationships, our project simplifies the complexities of property management, ensuring a streamlined and efficient experience.
