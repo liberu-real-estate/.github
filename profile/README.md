@@ -9,7 +9,7 @@
 ![](https://img.shields.io/badge/JavaScript-ECMA2020-informational?style=flat&logo=JavaScript&color=F7DF1E)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-## [Hosted application packages](https://liberu.co.uk/order/main/packages/applications/?group_id=3)
+## [Managed hosting packages for property professionals](https://liberu.co.uk/order/main/packages/applications/?group_id=3)
 
 
 ## Description
